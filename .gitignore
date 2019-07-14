@@ -51,4 +51,7 @@
 .nfs*
 
 # End of https://www.gitignore.io/api/c++,linux
-*/.idea
+*/.idea/
+*/.idea/*
+.idea/
+cmake-build-debug/
